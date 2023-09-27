@@ -1,0 +1,26 @@
+[
+    {   "user_name" : "john dev",
+        "post_name": "Best flower inside home ",
+        "post_img": "https://i.ibb.co/zrSWx6c/post-1.png",
+        "post_date": "2023-09-16",
+        "post_title": "In today's beautiful weather, I went for a hike in the mountains and enjoyed the breathtaking views. Nature is truly incredible!",
+        "likes": 120,
+        "post_views": 1000
+    },
+    {   "user_name":"emli sima",
+        "post_name": "Flowers are might beauty",
+        "post_img": "https://i.ibb.co/10YyG3S/post-2.png",
+        "post_date": "2023-09-15",
+        "post_title": "Just finished reading an amazing book. The plot twists kept me on the edge of my seat. Highly recommend 'Mystery of the Forgotten Manuscript'!",
+        "likes": 344,
+        "post_views": 750
+    },
+    {   "user_name":"sanjida islam",
+        "post_name": "flower are happiness  ",
+        "post_img": "https://i.ibb.co/BgyktjD/post-3.png",
+        "post_date": "2023-09-14",
+        "post_title": "Visited the local art gallery today and was mesmerized by the creativity on display. Art has a unique way of touching the soul.",
+        "likes": 1140,
+        "post_views": 1250
+    }
+]

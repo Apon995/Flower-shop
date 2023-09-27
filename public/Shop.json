@@ -1,0 +1,99 @@
+[
+   
+    {
+        "flower_name": "White Rose",
+        "flower_id": "F001",
+        "flower_price": 12.99,
+        "flower_image": "https://i.ibb.co/B4N4N78/white-rose.png"
+    },
+    {
+        "flower_name": "Tulip",
+        "flower_id": "F002",
+        "flower_price": 8.49,
+        "flower_image": "https://i.ibb.co/n0n2CHH/tulip.webp"
+    },
+    {
+        "flower_name": "Daisy",
+        "flower_id": "F003",
+        "flower_price": 6.99,
+        "flower_image": "https://i.ibb.co/bNMZjPk/Daisy.png"
+    },
+    {
+        "flower_name": "Lily",
+        "flower_id": "F004",
+        "flower_price": 10.25,
+        "flower_image": "https://i.ibb.co/6ZCxF8K/Lily-flower.jpg"
+    },
+    {
+        "flower_name": "Sunflower",
+        "flower_id": "F005",
+        "flower_price": 7.95,
+        "flower_image": "https://i.ibb.co/mcgs18k/sunflower.png"
+    },
+    {
+        "flower_name": "Carnation",
+        "flower_id": "F006",
+        "flower_price": 5.99,
+        "flower_image": "https://i.ibb.co/994tZz1/Carnation.jpg"
+    },
+    {
+        "flower_name": "Orchid",
+        "flower_id": "F007",
+        "flower_price": 14.99,
+        "flower_image": "https://i.ibb.co/CHxjyHQ/Orchid.jpg"
+    },
+    {
+        "flower_name": "Daffodil",
+        "flower_id": "F008",
+        "flower_price": 6.49,
+        "flower_image": "https://i.ibb.co/ZN5LVVk/daffodil.jpg"
+    },
+    {
+        "flower_name": "Hydrangea",
+        "flower_id": "F009",
+        "flower_price": 9.75,
+        "flower_image": "https://i.ibb.co/j8pnj8p/Hydrangea.jpg"
+    },
+    {
+        "flower_name": "Peony",
+        "flower_id": "F010",
+        "flower_price": 11.99,
+        "flower_image": "https://i.ibb.co/rygs5g8/Peony.jpg"
+    },
+    {
+        "flower_name": "Chrysanthemum",
+        "flower_id": "F011",
+        "flower_price": 7.25,
+        "flower_image": "https://i.ibb.co/TtfHPq8/Chrysanthemum.jpg"
+    },
+    {
+        "flower_name": "Gerbera Daisy",
+        "flower_id": "F012",
+        "flower_price": 8.99,
+        "flower_image": "https://i.ibb.co/NtrK3fX/Gerbera-Daisy.jpg"
+    },
+    {
+        "flower_name": "Columbine",
+        "flower_id": "F013",
+        "flower_price": 5.49,
+        "flower_image": "https://i.ibb.co/5F6FgLZ/Columbine.jpg"
+    },
+    {
+        "flower_name": "Iris",
+        "flower_id": "F014",
+        "flower_price": 9.99,
+        "flower_image": "https://i.ibb.co/dtVBqR1/iris-flower.webp"
+    },
+    {
+        "flower_name": "Marigold",
+        "flower_id": "F015",
+        "flower_price": 4.75,
+        "flower_image": "https://i.ibb.co/c16PnRs/marigold.jpg"
+    },
+    {
+        "flower_name": "Red Rose",
+        "flower_id": "F016",
+        "flower_price": 19.99,
+        "flower_image": "https://i.ibb.co/Df3PQfR/red-rose.png"
+    }
+]
